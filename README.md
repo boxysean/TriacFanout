@@ -1,6 +1,6 @@
 Triac Fanout board for daisy-chainable 8x triac (lightbulb) outputs and Arduino library. So far tested for 8 channels.
 
-[Video](http://instagram.com/p/sIW-zPrQGj/?modal=true)
+[Video](http://instagram.com/p/sIGZ_VrQKr/?modal=true)
 
 Written by Sean McIntyre.
 MIT license, all text above must be included in any redistribution
